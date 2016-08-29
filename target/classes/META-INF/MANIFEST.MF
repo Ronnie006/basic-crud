@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: basic-crud
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Ronnie Ang
+Implementation-Vendor-Id: basic-crud
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/basic-crud/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
